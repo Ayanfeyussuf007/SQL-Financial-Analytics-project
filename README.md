@@ -1,4 +1,4 @@
-# SQL Project 1: Advanced Queries on a Hypothetical Financial Dataset
+#  Advanced Queries on a Hypothetical Financial Dataset
 
 ## Project Overview
 This project showcases a variety of advanced SQL query techniques that are essential for complex data retrieval and analysis in a relational database environment. The queries are designed for a hypothetical financial dataset, demonstrating how to extract meaningful insights from transactional and customer data.
